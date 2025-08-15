@@ -1,6 +1,6 @@
-# Tiptap Pagination Editor
+# Tiptap Editor
 
-A modern rich text editor with advanced pagination features built using Tiptap, React 19, TypeScript, and Tailwind CSS. This editor provides a WYSIWYG (What You See Is What You Get) interface with page-based editing capabilities similar to traditional word processors.
+A modern rich text editor with advanced pagination features built using Tiptap, React 19, TypeScript, and Tailwind CSS. This editor provides a WYSIWYG (What You See Is What You Get) interface with page-based editing capabilities similar to traditional word processors. **[🚀 View Live Demo](https://tiptap-vettam.vercel.app)**
 
 ## Features
 
@@ -29,8 +29,8 @@ A modern rich text editor with advanced pagination features built using Tiptap, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/tiptap-editor.git
-cd tiptap-editor
+git clone https://github.com/Rakeshkumarsahugithub/tiptap-vettam.git
+cd tiptap-vettam
 
 # Install dependencies
 npm install
