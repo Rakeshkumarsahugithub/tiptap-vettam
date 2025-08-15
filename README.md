@@ -1,6 +1,6 @@
 # Tiptap Pagination Editor
 
-A modern rich text editor with advanced pagination features built using Tiptap, React 19, TypeScript, and Tailwind CSS. This editor provides a WYSIWYG interface with page-based editing capabilities similar to traditional word processors.
+A modern rich text editor with advanced pagination features built using Tiptap, React 19, TypeScript, and Tailwind CSS. This editor provides a WYSIWYG (What You See Is What You Get) interface with page-based editing capabilities similar to traditional word processors.
 
 ## Features
 
