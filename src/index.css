@@ -1,0 +1,71 @@
+@import 'tailwindcss/utilities'; 
+
+
+
+
+/* Add cursor pointer to all interactive elements */
+button, select, [role="button"], .editor-toolbar button, .pagination-nav button {
+  cursor: pointer;
+}
+
+/* :root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(0, 0, 0, 0.87);
+  background-color: #ffffff;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+
+/* body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+} */
+
+/* Custom styles for the editor */
+/* .ProseMirror:focus {
+  outline: none;
+} */
+
+/* .page {
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  position: relative;
+} */
+
+/* .page-break {
+  border-top: 1px dashed #999;
+  margin: 1rem 0;
+  page-break-after: always;
+} */
+
+/* .header, .footer {
+  padding: 0.5rem;
+  color: #666;
+  font-size: 0.8rem;
+} */
+/* button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+} */
+
+/* @media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+} */
