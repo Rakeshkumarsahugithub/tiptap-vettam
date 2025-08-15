@@ -46,7 +46,7 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
   customHeader = '',
   onHeaderChange
 }) => {
-  const [editorState, setEditorState] = useState(0);
+  const [, setEditorState] = useState(0);
   
   // Force re-render when editor state changes
   useEffect(() => {
